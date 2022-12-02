@@ -1,0 +1,18 @@
+.banner-para {
+    position: absolute;
+    top: 30%;
+    margin-left: 50px;
+
+    color: antiquewhite;
+
+}
+
+
+.headline {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.banner-img img {
+    background: linear-gradient(to right, #151515 0%, rgba(21, 21, 21, 0) 100%);
+}

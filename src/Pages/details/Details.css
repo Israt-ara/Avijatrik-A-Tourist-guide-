@@ -1,0 +1,23 @@
+.details-part {
+    margin-right: 30px;
+    margin-left: 70px;
+}
+
+.text-part {
+    margin-top: 10px;
+    border: 1px solid rgb(247, 120, 145);
+}
+
+.review-btn {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(243, 100, 48);
+    border: none;
+}
+
+.details-card {
+
+    /* width: 600px; */
+    margin-top: 30px;
+    margin-bottom: 30px;
+}

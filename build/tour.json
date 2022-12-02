@@ -1,0 +1,74 @@
+[
+    {
+        "service_id": "01",
+        "name": "Rangamati Tour",
+        "details": "Chittagong hill tracts are the best place for experiencing different lifestyles. Where’s the home of thirteen ethnic people group and the mystery of green hills. The famous Sangu river and the largest human-made Kaptai Lake are the places to make unforgotten.  This is one of the best trips in Bangladesh for a unique experience.",
+        "image": "https://i.ibb.co/nzvpHp3/julonto-bridge.jpg",
+        "price": "9500",
+        "tourDuration": "5",
+        "ratings": "5",
+        "review": "Excellent tour. Our guide was incredibly knowledgable and gave us a fantastic day in Dream. We learnt about history, art, culture and much more. We are well traveled and have high standards, and we were very happy with our tour guide - she was great and spoke excellent English. Time and money well invested.",
+        "url": "https://i.ibb.co/j5syVWh/man.jpg",
+        "date": "2021-10-31"
+    },
+    {
+        "service_id": "02",
+        "name": "Shat Gambuj Mosque",
+        "details": "The Sixty Dome Mosque, is a mosque in Bagerhat, Bangladesh. It is a part of the Mosque City of Bagerhat, a UNESCO World Heritage Site.  It was built during the Bengal Sultanate by Khan Jahan Ali It has been described as one of the most impressive Muslim monuments in the whole of South Asia",
+        "image": "https://i.ibb.co/kKztBYT/shat-gambuj.jpg",
+        "price": "9000",
+        "tourDuration": "5",
+        "ratings": "4.5",
+        "review": "Brilliant tour and the guide is brilliant. 4 hour walking tour of Everest Base Camp. Our guide Asif is extremely well informed and ran an interesting and humerous tour, explaining everything en route.",
+        "url": "https://i.ibb.co/j5syVWh/man.jpg",
+        "date": "2021-11-19"
+    },
+    {
+        "service_id": "03",
+        "name": "Coxs Bazar Tour",
+        "details": "Cox's Bazar  is a city, fishing port, tourism centre, and district headquarters in Southeastern Bangladesh. It is located 150 km (93 mi) south of the city of Chittagong. Cox's Bazar is also known by the name Panowa, which translates literally as yellow flower. Another old name was Palongkee",
+        "image": "https://i.ibb.co/4tv7Pj3/coxsbazar.jpg",
+        "price": "7500",
+        "tourDuration": "3",
+        "ratings": "5",
+        "review": "Less maintained beech, alot of garbage and stink of trash and dumps. The sand was dark and the place was poorly administered. No clean bath points or toilets on the beach shore.",
+        "url": "https://i.ibb.co/j5syVWh/man.jpg",
+        "date": "2021-10-09"
+    },
+    {
+        "service_id": "04",
+        "name": "Tanguar Howor",
+        "details": "Tanguar Haor, located in the Dharmapasha and Tahirpur upazilas of Sunamganj District in Bangladesh, is a unique wetland ecosystem of national importance and has come into international focus.",
+        "image": "https://i.ibb.co/3vB2tZ9/tanguar-hawor.jpg",
+        "price": "8600",
+        "tourDuration": "2",
+        "ratings": "4",
+        "review": "The road from Sumangonj to Tahirpur is not fully motorable, needs to develop the road. There is no toilet and a good restaurant to dine at Tahirpur. The Haor is very nice with the natural scenic beauties. The boat standard is not good,",
+        "url": "https://i.ibb.co/j5syVWh/man.jpg",
+        "date": "2022-10-08"
+    },
+    {
+        "service_id": "05",
+        "name": "Sundarban Forest Tour",
+        "details": "The Sundarbans is a cluster of low-lying islands in the Bay of Bengal, spread across India and Bangladesh, famous for its unique mangrove forests",
+        "image": "https://i.ibb.co/58q2PTv/Sundorban.jpg",
+        "price": "6900",
+        "tourDuration": "4",
+        "ratings": "5",
+        "review": "Wonderful! I visited Bangladesh in early July with my daughter. Mr.Asif organised every detail perfectly, resulting in an unforgettable boat tour of the Sundarbans… the boat was clean and comfortable; the sights and experiences not to be missed.His supporting crew were top notch … delicious home-cooked food; polite, pleasant, caring and fun group of people who catered to our every need.",
+        "url": "https://i.ibb.co/j5syVWh/man.jpg",
+        "date": "2021-10-25"
+    },
+    {
+        "service_id": "06",
+        "name": "Sajek Valley",
+        "details": "Sajek Tripuri Valley is one of the most popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District.  Sajek Tripuri Valley is known as the Queen of Hills & Roof of Rangamati.",
+        "image": "https://i.ibb.co/6Z0QWjy/sajek.jpg",
+        "price": "12000",
+        "tourDuration": "3",
+        "ratings": "4.5",
+        "review": "Excellent tour guide, great knowledge and a passion for a lovely city. We did a fabulous tour with us (7 men) through the old town, passionately describing the complex history and pointing out all the special buildings. Lovely tour.. We ended our private tour on the market where we tasted some nice local meat and ended with sajek valley resort. What a great town and what a great host-guide! Thank you ",
+        "url": "https://i.ibb.co/j5syVWh/man.jpg",
+        "date": "2021-11-28"
+    }
+]

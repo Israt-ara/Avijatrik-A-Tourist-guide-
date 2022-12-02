@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50c77f77.css",
+    "main.js": "/static/js/main.dae21479.js",
+    "static/js/787.9ebdd4f8.chunk.js": "/static/js/787.9ebdd4f8.chunk.js",
+    "static/media/travel.gif": "/static/media/travel.95b79321d1bd85a435b3.gif",
+    "static/media/Rangamati-banner.jpg": "/static/media/Rangamati-banner.38ad1cc508335dcafc0d.jpg",
+    "static/media/caption.jpg": "/static/media/caption.0eb15b261bb655f8f913.jpg",
+    "static/media/signup.webp": "/static/media/signup.b1661633dca5caba3e22.webp",
+    "index.html": "/index.html",
+    "main.50c77f77.css.map": "/static/css/main.50c77f77.css.map",
+    "main.dae21479.js.map": "/static/js/main.dae21479.js.map",
+    "787.9ebdd4f8.chunk.js.map": "/static/js/787.9ebdd4f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50c77f77.css",
+    "static/js/main.dae21479.js"
+  ]
+}

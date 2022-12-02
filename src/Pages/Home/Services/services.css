@@ -1,0 +1,22 @@
+.services-part {
+    background-color: rgb(251, 251, 213);
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+
+
+
+.popular-services {
+
+    font-size: 60px;
+    text-align: center;
+}
+
+.services-data {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 10px;
+    /* margin-bottom: 10px; */
+
+}
