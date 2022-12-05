@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 Project Name: Avijtrik (A tourist Guide)
+Server site: https://github.com/Israt-ara/Avijatrik-Server-site-.git
 
 * Project link: https://avijatrik-32045.web.app/
 
